@@ -8,11 +8,11 @@ android {
     buildFeatures{
         viewBinding = true
     }
-    namespace = "com.example.foodorderingapp"
+    namespace = "com.jubayedalam.foodorderingapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.foodorderingapp"
+        applicationId = "com.jubayedalam.foodorderingapp"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
