@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:753363020941:android:2cca2a982b39d142dfc6c4",
         "android_client_info": {
-          "package_name": "com.example.adminfoodorderingapp"
+          "package_name": "com.jubayedalam.adminfoodorderingapp"
         }
       },
       "oauth_client": [],
@@ -28,7 +28,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:753363020941:android:87a76ff6587b94bbdfc6c4",
         "android_client_info": {
-          "package_name": "com.example.foodorderingapp"
+          "package_name": "com.jubayedalam.foodorderingapp"
         }
       },
       "oauth_client": [],
